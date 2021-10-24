@@ -1,0 +1,19 @@
+﻿Сборка начата 21.05.2021 9:40:11.
+Уровень детализации журнала: Normal.     1>Проект "D:\Лабы ОАП 2\Лаб 11\Lab 11 v4\Lab 11 v4\Lab 11 v4.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\Lab 11 v4.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Лабы ОАП 2\Лаб 11\Lab 11 v4\Debug\Lab 11 v4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"D:\Лабы ОАП 2\Лаб 11\Lab 11 v4\Debug\Lab 11 v4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Лабы ОАП 2\Лаб 11\Lab 11 v4\Debug\Lab 11 v4.lib" /MACHINE:X86 "Debug\Lab 11 v4.obj"
+         Lab 11 v4.vcxproj -> D:\Лабы ОАП 2\Лаб 11\Lab 11 v4\Debug\Lab 11 v4.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab 11 v4.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab 11 v4.tlog\Lab 11 v4.lastbuildstate".
+     1>Сборка проекта "D:\Лабы ОАП 2\Лаб 11\Lab 11 v4\Lab 11 v4\Lab 11 v4.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.08

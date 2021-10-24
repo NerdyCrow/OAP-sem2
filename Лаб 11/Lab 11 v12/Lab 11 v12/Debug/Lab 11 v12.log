@@ -1,0 +1,28 @@
+﻿Сборка начата 14.05.2021 13:50:47.
+Уровень детализации журнала: Normal.     1>Проект "D:\Лабы ОАП 2\Лаб 11\Lab 11 v12\Lab 11 v12\Lab 11 v12.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Lab 11 v12.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         d:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:prompt "Lab 11 v12.cpp"
+         Lab 11 v12.cpp
+     1>D:\Лабы ОАП 2\Лаб 11\Lab 11 v12\Lab 11 v12\Lab 11 v12.cpp(33,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+     1>D:\Лабы ОАП 2\Лаб 11\Lab 11 v12\Lab 11 v12\Lab 11 v12.cpp(265): warning C4715: printLevel: значение возвращается не при всех путях выполнения
+       Link:
+         d:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Лабы ОАП 2\Лаб 11\Lab 11 v12\Debug\Lab 11 v12.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"D:\Лабы ОАП 2\Лаб 11\Lab 11 v12\Debug\Lab 11 v12.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Лабы ОАП 2\Лаб 11\Lab 11 v12\Debug\Lab 11 v12.lib" /MACHINE:X86 "Debug\Lab 11 v12.obj"
+         Lab 11 v12.vcxproj -> D:\Лабы ОАП 2\Лаб 11\Lab 11 v12\Debug\Lab 11 v12.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab 11 v12.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab 11 v12.tlog\Lab 11 v12.lastbuildstate".
+     1>Сборка проекта "D:\Лабы ОАП 2\Лаб 11\Lab 11 v12\Lab 11 v12\Lab 11 v12.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\Лабы ОАП 2\Лаб 11\Lab 11 v12\Lab 11 v12\Lab 11 v12.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\Лабы ОАП 2\Лаб 11\Lab 11 v12\Lab 11 v12\Lab 11 v12.cpp(33,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+         D:\Лабы ОАП 2\Лаб 11\Lab 11 v12\Lab 11 v12\Lab 11 v12.cpp(265): warning C4715: printLevel: значение возвращается не при всех путях выполнения
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:05.14
