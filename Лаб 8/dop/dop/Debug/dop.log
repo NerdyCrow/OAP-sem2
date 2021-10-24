@@ -1,0 +1,6 @@
+﻿  dop.cpp
+  second.cpp
+D:\Лабы ОАП 2\Лаб 8\dop\dop\second.cpp(674,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Лабы ОАП 2\Лаб 8\dop\dop\second.cpp(693,31): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  dop.vcxproj -> D:\Лабы ОАП 2\Лаб 8\dop\Debug\dop.exe
