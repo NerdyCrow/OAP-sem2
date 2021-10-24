@@ -1,0 +1,37 @@
+﻿Сборка начата 14.05.2021 10:01:19.
+Уровень детализации журнала: Normal.     1>Проект "D:\Лабы ОАП 2\Лаб 7\Lab 7 v4\Lab 7 v4\Lab 7 v4.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Lab 7 v4.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:prompt second.cpp
+         second.cpp
+     1>D:\Лабы ОАП 2\Лаб 7\Lab 7 v4\Lab 7 v4\stdafx.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+     1>D:\Лабы ОАП 2\Лаб 7\Lab 7 v4\Lab 7 v4\second.cpp(121,35): warning C4101: n: неиспользованная локальная переменная
+     1>D:\Лабы ОАП 2\Лаб 7\Lab 7 v4\Lab 7 v4\second.cpp(409,20): warning C4018: <: несоответствие типов со знаком и без знака
+     1>D:\Лабы ОАП 2\Лаб 7\Lab 7 v4\Lab 7 v4\second.cpp(411,21): warning C4018: <: несоответствие типов со знаком и без знака
+     1>D:\Лабы ОАП 2\Лаб 7\Lab 7 v4\Lab 7 v4\second.cpp(418,20): warning C4018: <: несоответствие типов со знаком и без знака
+     1>D:\Лабы ОАП 2\Лаб 7\Lab 7 v4\Lab 7 v4\second.cpp(420,21): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Лабы ОАП 2\Лаб 7\Lab 7 v4\Debug\Lab 7 v4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"D:\Лабы ОАП 2\Лаб 7\Lab 7 v4\Debug\Lab 7 v4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Лабы ОАП 2\Лаб 7\Lab 7 v4\Debug\Lab 7 v4.lib" /MACHINE:X86 "Debug\Lab 7 v4.obj"
+         Debug\second.obj
+         Lab 7 v4.vcxproj -> D:\Лабы ОАП 2\Лаб 7\Lab 7 v4\Debug\Lab 7 v4.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab 7 v4.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab 7 v4.tlog\Lab 7 v4.lastbuildstate".
+     1>Сборка проекта "D:\Лабы ОАП 2\Лаб 7\Lab 7 v4\Lab 7 v4\Lab 7 v4.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\Лабы ОАП 2\Лаб 7\Lab 7 v4\Lab 7 v4\Lab 7 v4.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\Лабы ОАП 2\Лаб 7\Lab 7 v4\Lab 7 v4\stdafx.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+         D:\Лабы ОАП 2\Лаб 7\Lab 7 v4\Lab 7 v4\second.cpp(121,35): warning C4101: n: неиспользованная локальная переменная
+         D:\Лабы ОАП 2\Лаб 7\Lab 7 v4\Lab 7 v4\second.cpp(409,20): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\Лабы ОАП 2\Лаб 7\Lab 7 v4\Lab 7 v4\second.cpp(411,21): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\Лабы ОАП 2\Лаб 7\Lab 7 v4\Lab 7 v4\second.cpp(418,20): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\Лабы ОАП 2\Лаб 7\Lab 7 v4\Lab 7 v4\second.cpp(420,21): warning C4018: <: несоответствие типов со знаком и без знака
+
+    Предупреждений: 6
+    Ошибок: 0
+
+Прошло времени 00:00:01.87
